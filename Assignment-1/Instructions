@@ -1,0 +1,8 @@
+Use the Excel files for the data dump. They are seperately found as training_data and test_data.
+
+For dimensionality reduction run file PCA.py. It will create two files PCA_train_result.csv and PCA_test_result.csv
+
+These two files are used by LogisticReg.py to run the classifier. LogisticReg.py will produce predicted_labels.
+
+STEP 1: Run PCA.py
+STEP 2: Run LogisticReg.py

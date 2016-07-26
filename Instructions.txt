@@ -1,8 +1,0 @@
-INSTRUCTIONS:
-
-First file PCA.py is for dimensionality reduction. It will create two files PCA_train_result.csv and PCA_test_result.csv
-
-These two files are used by LogisticReg.py to run the classifier. LogisticReg.py will produce predicted_labels.
-
-STEP 1: Run PCA.py
-STEP 2: Run LogisticReg.py
